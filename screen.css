@@ -27,3 +27,7 @@ h2{
     border-bottom: 1px solid #424242;
     border-width: 1px 700px;
 }
+
+p{
+    padding-left: 300px;
+}
