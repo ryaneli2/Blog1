@@ -50,6 +50,10 @@ h2{
     padding: 20px;
 }
 
+.trad section img{
+    padding: 20px;
+}
+
 .best{
     display: flex;
     gap: 25px;
@@ -68,5 +72,9 @@ h2{
 }
 
 .best section h2{
+    padding: 20px;
+}
+
+.best section img{
     padding: 20px;
 }
