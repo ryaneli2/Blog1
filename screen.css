@@ -16,3 +16,8 @@ h1{
     text-align: center;
     font-size: 3em;
 }
+
+img{
+    width: 200px;
+    height: 500px;
+}
