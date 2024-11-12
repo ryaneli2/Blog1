@@ -28,6 +28,13 @@ h2{
     border-width: 1px 700px;
 }
 
+/*
 p{
     padding-left: 300px;
+}
+    */
+
+.trad{
+    display: flex;
+    gap: 25px;
 }
