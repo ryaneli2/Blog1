@@ -30,13 +30,11 @@ h2{
 
 
 .trad{
-    display: flex;
+    display: inline-block;
     gap: 25px;
 }
 
 .trad section{
-    flex-grow: 1;
-    flex-basis: 0;
     background: #93AFC8;
     border-radius: 20px;
     margin-top: 25px;
@@ -44,6 +42,7 @@ h2{
 
 .trad section p{
     margin: 20px;
+
 }
 
 .trad section h2{
@@ -52,6 +51,7 @@ h2{
 
 .trad section img{
     padding: 20px;
+    border-radius: 20px;
 }
 
 .best{
@@ -77,4 +77,5 @@ h2{
 
 .best section img{
     padding: 20px;
+    border-radius: 20px;
 }
