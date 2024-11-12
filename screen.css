@@ -11,3 +11,7 @@ main{
     width: 800px;
 }
 
+h1{
+    background-position: center right;
+    font-size: 3em;
+}
