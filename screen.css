@@ -12,8 +12,6 @@ main{
 }
 
 h1{
-    background-position: center right;
+    background-position: center;
     font-size: 3em;
-    padding-right: 55px;
-    margin: 100px 0 25px 0;
 }
