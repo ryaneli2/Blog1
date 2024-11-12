@@ -30,11 +30,13 @@ h2{
 
 
 .trad{
-    display: inline-block;
+    display: flex;
     gap: 25px;
 }
 
 .trad section{
+    flex-grow: 1;
+    flex-basis: 0;
     background: #93AFC8;
     border-radius: 20px;
     margin-top: 25px;
