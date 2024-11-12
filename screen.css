@@ -100,7 +100,7 @@ h2{
     background-color: #bbd6da;
     text-align: center;
     margin: 0;
-    padding: 50px;
+    padding: 0;
 }
 
 .nav li{
@@ -109,3 +109,8 @@ h2{
     padding: 20px;
 }
 
+#Fpg{
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+}
