@@ -1,9 +1,9 @@
 body{
     background: #fff;
     font-family: Helvetica, sans-serif;
-    border-top: 15px solid #424242;
+    border-top: 15px solid #16007a;
     margin: 0 auto;
-    color: #424242;
+    color: #16007a;
     padding: 0 300px 0 300px;
 }
 
@@ -24,15 +24,10 @@ img{
 }
 
 h2{
-    border-bottom: 1px solid #424242;
+    border-bottom: 1px solid #16007a;
     border-width: 1px 700px;
 }
 
-/*
-p{
-    padding-left: 300px;
-}
-    */
 
 .trad{
     display: flex;
@@ -42,7 +37,7 @@ p{
 .trad section{
     flex-grow: 1;
     flex-basis: 0;
-    background: #E9EAEC;
+    background: #93AFC8;
     border-radius: 20px;
     margin-top: 25px;
 }
@@ -52,5 +47,26 @@ p{
 }
 
 .trad section h2{
+    padding: 20px;
+}
+
+.best{
+    display: flex;
+    gap: 25px;
+}
+
+.best section{
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #93AFC8;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+
+.best section p{
+    margin: 20px;
+}
+
+.best section h2{
     padding: 20px;
 }
