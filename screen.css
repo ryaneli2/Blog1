@@ -38,3 +38,19 @@ p{
     display: flex;
     gap: 25px;
 }
+
+.trad section{
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #E9EAEC;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+
+.trad section p{
+    margin: 20px;
+}
+
+.trad section h2{
+    padding: 20px;
+}
