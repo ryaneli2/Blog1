@@ -20,4 +20,10 @@ h1{
 img{
     width: 350px;
     height: 500px;
+    border-radius: 20px;
+}
+
+h2{
+    border-bottom: 1px solid #424242;
+    border-width: 700px;
 }
